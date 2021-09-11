@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Marcinserver
+- 👀 I’m interested in new technology, economy and of course programming.
+- 🌱 I’m currently learning c++, html, css, js, blueprint(ue4).
